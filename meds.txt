@@ -1,0 +1,43 @@
+01. 25% Dextrose
+02. 5-Amino salicylic Acid (5-ASA)
+03. Allopurinol
+04. Amoxicillin+Clavulinic acid
+05. Atorvastatin
+06. Betamethasone
+07. Carboplatin
+08. Cefixime
+09. Cetrizine
+10. Chlorambucil
+11. Clindamycin
+12. Clopidogrel
+13. Dacarbazine
+14. Daunorubicin
+15. Diazepam 
+16. EMLA cream
+17. Enoxaparin
+18. Famotidine
+19. Fentanyl
+20. Filgrastim
+21. Hydroxychloroquine phosphate
+22. Ifosfamide
+23. Imatinib
+24. Ipratropium bromide
+25. Leflunomide
+26. Lorazepam
+27. Mefloquine
+28. Mesna
+29. Misoprostol
+30. N-acetylcysteine
+31. Olanzapine
+32. Oxaliplatin
+33. Pantoprazole
+34. Permethrin
+35. Piperazine
+36. Premix Insulin 30:70 injection
+37. Propofol
+38. Sevoflurane
+39. Stavudine+Lamivudine
+40. Tramadol
+41. Vecuronium
+42. Zidovudine+Lamivudine+Nevirapine
+43. Zinc Sulfate

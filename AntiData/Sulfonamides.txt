@@ -1,0 +1,4 @@
+Sulfamethizole	Thiosulfil Forte
+Sulfamethoxazole	Gantanol, Urobak
+Sulfisoxazole	Gantrisin
+Trimethoprim-Sulfamethoxazole	Bactrim, Cotrim

@@ -1,0 +1,70 @@
+Cefacetrile (cephacetrile)	Celospor, Celtol, Cristacef
+Cefadroxil (cefadroxyl)	Duricef, Ultracef
+Cefalexin (cephalexin)	Keflex, Keftab
+Cefaloglycin (cephaloglycin)	Kefglycin
+Cefalonium (cephalonium)	 
+Cefaloridine (cephaloradine)	 
+Cefalotin (cephalothin)	Keflin
+Cefapirin (cephapirin)	Cefadyl
+Cefatrizine	 
+Cefazaflur	 
+Cefazedone	 
+Cefazolin (cephazolin)	Ancef, Kefzol
+Cefradine (cephradine)	Velosef
+Cefroxadine	 
+Ceftezole	 
+Cefaclor	Ceclor, Ceclor CD, Distaclor, Keflor, Ranicor
+Cefamandole	Mandol
+Cefmetazole	 
+Cefonicid	Monocid
+Cefotetan	Cefotan
+Cefoxitin	Mefoxin
+Cefprozil (cefproxil)	Cefzil
+Cefuroxime	Ceftin, Kefurox, Zinacef, Zinnat
+Cefuzonam	 
+Cefcapene	 
+Cefdaloxime	 
+Cefdinir	Omnicef, Cefdiel
+Cefditoren	Spectracef
+Cefetamet	 
+Cefixime	Suprax
+Cefmenoxime	Cefmax
+Cefodizime	 
+Cefotaxime	Claforan
+Cefpimizole	 
+Cefpodoxime	Vantin
+Cefteram	 
+Ceftibuten	Cedax
+Ceftiofur	Excede
+Ceftiolene	 
+Ceftizoxime	Cefizox
+Ceftriaxone	Rocephin
+Cefoperazone	Cefobid
+Ceftazidime	Ceptaz, Fortum, Fortaz, Tazicef, Tazidime
+Cefclidine	 
+Cefepime	Maxipime
+Cefluprenam	 
+Cefoselis	 
+Cefozopran	 
+Cefpirome	Cefrom
+Cefquinome	 
+Ceftobiprole	Zeftera
+Ceftaroline	Teflaro
+Cefaclomezine	 
+Cefaloram	 
+Cefaparole	 
+Cefcanel	 
+Cefedrolor	 
+Cefempidone	 
+Cefetrizole	 
+Cefivitril	 
+Cefmatilen	 
+Cefmepidium	 
+Cefovecin	 
+Cefoxazole	 
+Cefrotil	 
+Cefsumide	 
+Cefuracetime	 
+Ceftioxide	 
+Ceftazidime/Avibactam	Avycaz
+Ceftolozane/Tazobactam	Zerbaxa

@@ -1,0 +1,47 @@
+01. Acenocoumarol
+02. Aminophylline
+03. Benzoic Acid + Salicylic Acid
+04. Benzylpenicillin
+05. Bretylium Tosylate
+06. Cefuroxime
+07. Centchroman
+08. Chloramphenicol
+09. Chlorthalidone
+10. Clarithromycin
+11. Clomipramine hydrochloride
+12. Clonidine Hydrochloride
+13. Doxapram
+14. Ethyl Chloride
+15. Flucytosine
+16. Furazolidone
+17. Gamma Benzene Hexachloride
+18. Isoprenaline Hydrochloride
+19. Isoxsuprine hydrochloride
+20. Ketoconazole
+21. Loperamide
+22. Mebendazole
+23. Menadione Sodium Sulphite
+24. Mexiletine Hydrochloride
+25. Nalidixic Acid
+26. Niclosamide
+27. Nitrazepam
+28. Norfloxacin
+29. Pancuronium
+30. Pentazocine
+31. Pethidine Hydrochloride
+32. Physostigmine Salicylate
+33. Procaine Benzylpenicillin
+34. Prochlorperazine
+35. Pyrantel Pamoate
+36. Quinidine
+37. Roxithromycin
+38. Silver Nitrate
+39. Terazosin
+40. Tetracycline
+41. Tetracycline Hydrochloride
+42. Theophyline compounds
+43. Thiacetazone + Isoniazid
+44. Tinidazole
+45. Trifluoperazine
+46. Trimethoprim
+47. Xylometazoline

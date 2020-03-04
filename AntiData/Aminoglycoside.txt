@@ -1,0 +1,8 @@
+Amikacin	Amikin
+Gentamicin	Garamycin, G-Mycin, Jenamicin
+Kanamycin	Kantrex
+Neomycin	Mycifradin, Myciguent
+Netilmicin	Netromycin
+Paromomycin	 
+Streptomycin	 
+Tobramycin	Nebcin
