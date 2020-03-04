@@ -1,0 +1,18 @@
+Chloramphenicol	Chloromycetin
+Metronidazole	Flagyl, Helidac
+Tinidazole	Tindamax
+Nitrofurantoin	Furadantin, Macrobid, Macrodantin
+Vancomycin	Vancocin
+Teicoplanin	Targocid
+Telavancin	Vibativ
+Linezolid	Zyvox
+Cycloserine 2	Seromycin
+Rifampin	Rifadin
+Rifabutin	Mycobutin
+Rifapentine	Priftin
+Rifalazil	 
+Polypeptides
+Bacitracin	Baciguent
+Polymyxin B	 
+Viomycin	 
+Capreomycin

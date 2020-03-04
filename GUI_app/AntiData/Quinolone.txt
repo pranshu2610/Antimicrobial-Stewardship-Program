@@ -1,0 +1,30 @@
+Flumequine	Flubactin
+Nalidixic acid	NegGam, Wintomylon
+Oxolinic acid	Uroxin
+Piromidic acid	Panacid
+Pipemidic acid	Dolcol
+Rosoxacin	Eradacil
+Ciprofloxacin	Cipro, Cipro XR, Ciprobay, Ciproxin
+Enoxacin	Enroxil, Penetrex
+Lomefloxacin	Maxaquin
+Nadifloxacin	Acuatim, Nadoxin, Nadixa
+Norfloxacin	Lexinor, Noroxin, Quinabic, Janacin
+Ofloxacin	Floxin, Oxaldin, Tarivid
+Pefloxacin	Peflacine
+Rufloxacin	Uroflox
+Balofloxacin	Baloxin
+Gatifloxacin	Tequin, Zymar
+Grepafloxacin	Raxar
+Levofloxacin	Cravit, Levaquin
+Moxifloxacin	Avelox, Vigamox
+Pazufloxacin	Pasil, Pazucross
+Sparfloxacin	Zagam
+Temafloxacin	Omniflox
+Tosufloxacin	Ozex, Tosacin
+Besifloxacin	Besivance
+Delafloxacin	Baxdela®
+Clinafloxacin	 
+Gemifloxacin	Factive
+Prulifloxacin	Quisnon
+Sitafloxacin	Gracevit
+Trovafloxacin	Trovan

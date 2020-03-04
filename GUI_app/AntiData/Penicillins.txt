@@ -1,0 +1,16 @@
+Amoxicillin	Amoxil, Polymox, Trimox, Wymox
+Ampicillin	Omnipen, Polycillin, Polycillin-N, Principen, Totacillin
+Bacampicillin	Spectrobid
+Carbenicillin	Geocillin, Geopen
+Cloxacillin	Cloxapen
+Dicloxacillin	Dynapen, Dycill, Pathocil
+Flucloxacillin	Flopen, Floxapen, Staphcillin
+Mezlocillin	Mezlin
+Nafcillin	Nafcil, Nallpen, Unipen
+Oxacillin	Bactocill, Prostaphlin
+Penicillin G	Bicillin L-A,Crysticillin 300 A.S., Pentids, Permapen, Pfizerpen,Pfizerpen-AS, Wycillin
+Penicillin V	Beepen-VK, Betapen-VK, Ledercillin VK, V-Cillin K
+Piperacillin	Pipracil
+Pivampicillin	 
+Pivmecillinam	 
+Ticarcillin	Ticar

@@ -1,0 +1,6 @@
+Demeclocycline	Declomycin
+Doxycycline	Doryx, Vibramycin
+Minocycline	Dynacin, Minocin, Monodox
+Oxytetracycline	Terramycin
+Tetracycline	Achromycin
+Tigecycline	Tygacil

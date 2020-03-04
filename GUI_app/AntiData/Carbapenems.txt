@@ -1,0 +1,5 @@
+Imipenem,Imipenem/cilastatin	Primaxin
+Doripenem	Doribax
+Ertapenem	Invanz
+Meropenem	Merrem
+Meropenem/vaborbactam	Vabomere®
